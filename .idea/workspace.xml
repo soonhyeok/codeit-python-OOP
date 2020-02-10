@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd664ae-302d-4efc-a6ee-2e9ad1e05eee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xbo1usoo8ux4LfZKzSlZdmbpoK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chap03" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\codeit-python-OOP\Chap03" />
+      <recent name="C:\Users\User\Documents\GitHub\codeit-python-OOP" />
+      <recent name="C:\Users\User\Documents\GitHub\codeit-python-OOP\Chap02" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd664ae-302d-4efc-a6ee-2e9ad1e05eee" name="Default Changelist" comment="" />
+      <created>1581323943194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581323943194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1219" y="315" key="FileChooserDialogImpl" timestamp="1581324296327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="315" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1581324296327" />
+  </component>
+</project>
